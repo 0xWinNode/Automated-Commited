@@ -1,4 +1,4 @@
-# Automated-Commit
+# Automated Commite Created by [Nofan Rambe]
 
 English | [简体中文](README-CN.md) 
 
@@ -63,3 +63,13 @@ Contributions are welcome! Feel free to fork the repository, make your changes, 
 For issues or questions, please file an issue in the `Issues` section of the repository.
 
 Thank you for exploring the Automated-Commit workflow!
+
+## Buy me a Coffe
+
+- **Solana**: `95m5zAspEMNy5Dhc6hGCuUKygP8e7kLLC6dz23cJ13nk`
+
+- **ETH**: `0xa7816292d470BC4e4426a5FAdA71A42C0f370C53`
+
+- **BTC**: `bc1qj7han8vx7vzd7ecwkmkqytgd403326qcjcq5at`
+
+  # Thank You Guys!!
